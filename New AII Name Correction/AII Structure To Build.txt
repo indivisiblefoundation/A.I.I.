@@ -1,0 +1,15 @@
+~/Documents/AII_Briefcase/
+├── 01_IP_Protection/
+│   ├── Invention_Disclosure_Full_Tomas_Nelson.pdf   ← 2-page sign-ready, with witnesses
+│   └── IP_Assignment_Tomas_Nelson_to_LLC.pdf        ← transfers AII to the LLC
+├── 02_Business_Plans/
+│   └── AII_Business_Plan_Sustainable_Tomas_Nelson.pdf  ← $1.18M Yr1 with Green Certification
+├── 03_Legal_Templates/
+│   ├── Mutual_NDA_Tomas_Nelson.pdf
+│   └── Client_Services_Agreement_Tomas_Nelson.pdf
+├── 04_Architecture/
+│   └── 5_Laws_of_AII_Tomas_Nelson.pdf
+└── 05_Entity/Tomas
+    ├── LLC_Operating_Agreement_Tomas_Nelson.pdf    ← banks require this
+    ├── Banking_Resolution_Tomas_Nelson.pdf
+    └── EIN_Checklist_Tomas_Nelson.pdf
