@@ -1,6 +1,7 @@
 
 # A.I.I.
-zero-combustion ai data center  -- Pilot Brief  -- Quick Start (Windows 11, 10/ Linux /Chrome OS
+
+Zero-combustion AI Data Center  -- Pilot Brief  -- Quick Start (Windows 11, 10/ Linux /Chrome OS
 [current-power-source-and-cooling-methods-for-ai-data-centers-are-a-big-problem-for-the-planet-and-it.html](https://github.com/user-attachments/files/29165848/current-power-source-and-cooling-methods-for-ai-data-centers-are-a-big-problem-for-the-planet-and-it.html)
 
 So there are several different builds in this one AII because i couldn't decide on a name or a way to output the results I wanted you to see.  
@@ -12,6 +13,7 @@ because it is copyright protected and my team of lawyers will own you.
 
 # A.I.I. Briefcase - Tomas Nelson
 ## Architectural Intelligent Innovations Power Plant Model
+-Open up briefcase final and see readme for instructions on installing please submit issues should any arise
 
 ### **Contents**
 
