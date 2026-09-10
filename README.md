@@ -13,9 +13,6 @@ because it is copyright protected and my team of lawyers will own you.
 # A.I.I. Briefcase - Tomas Nelson
 ## Architectural Intelligent Innovations Power Plant Model
 
-Generated: June 21, 2026  
-Location: ~/Documents/A.I.I./AII_Briefcase
-
 ### **Contents**
 
 #### 01_IP_Protection/
@@ -35,6 +32,4 @@ Location: ~/Documents/A.I.I./AII_Briefcase
 #### 05_Entity/
 - `LLC_Operating_Agreement_Tomas_Nelson.pdf` - Governance for LLC 
 
-
-### **Generator**
 Built with `build_aii_complete.py` on June 6, 2026
